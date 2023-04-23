@@ -26,8 +26,8 @@ WebClown will be universal and secure. The only way to compromise this network i
 Any kind of things: P2P chats, custom torrent trackers, secure proxies and so on
 
 TODO:
-0) Finish README.md with tutorials and docs
-1) Build up protocol's networking structure
-2) Write WebClown() main class
-3) Make docs
-4) Run tests
+1) Finish README.md with tutorials and docs
+2) Build up protocol's networking structure
+3) Write WebClown() main class
+4) Make docs
+5) Run tests
