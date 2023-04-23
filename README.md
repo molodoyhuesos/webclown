@@ -19,13 +19,14 @@ You can see *"webclown-trust-web-explained.png"* to understand what WebClown is 
 ***
 
 # What is it for? #
-For me it is just experience. Although SSL and Tox protocols exists, I wanted to create my own, and SSL and Tox rely on independent certificate suppliers.
+For me it is just experience. Although SSL and Tox protocols exists, I wanted to create my own, and SSL relies on independent certificate suppliers, and Tox is limited,
 WebClown will be universal and secure. The only way to compromise this network is intercepting connection between *"localhost <-> router"*
 
 ### Purposes ###
 Any kind of things: P2P chats, custom torrent trackers, secure proxies and so on
 
 TODO:
+0) Finish README.md with tutorials and docs
 1) Build up protocol's networking structure
 2) Write WebClown() main class
 3) Make docs
